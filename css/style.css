@@ -1,0 +1,9 @@
+#imię, #nazwisko, input[type=submit] {
+background-color: chartreuse;
+    color: red;
+}
+.kontener{
+display: flex;
+
+justify-content: space-between;
+}
